@@ -18,7 +18,7 @@ object PrimitiveColors {
     val welPrimColorLegAlphaWhite_10 = Color(0x1AFFFFFF)
     val welPrimColorLegAlphaWhite_80 = Color(0xCCFFFFFF)
     val welPrimColorLegAlphaWhite_90 = Color(0xE6FFFFFF)
-    val welPrimColorLegAlphaWhite_100 = Color(0xFFFFFFFF)
+    val welPrimColorLegAlphaWhite_100 = Color(0xFFFF0000)
     val welPrimColorLegBlueGrey_0 = Color(0xFF000000)
     val welPrimColorLegBlueGrey_2 = Color(0xFF060514)
     val welPrimColorLegBlueGrey_5 = Color(0xFF100E23)
