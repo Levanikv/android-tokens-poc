@@ -95,7 +95,7 @@ object DarkColors {
     val gradientSecondaryStart = Color(0x00000000)
     val gradientSecondaryEnd = Color(0x00000000)
     val gradientWhiteMin = Color(0x00FFFFFF)
-    val gradientWhiteMax = Color(0xFFFF0000)
+    val gradientWhiteMax = Color(0xFFFFFFFF)
     val gradientBlackMin = Color(0x00000000)
     val gradientBlackMid = Color(0x8A000000)
     val gradientBlackHi = Color(0xE6000000)
